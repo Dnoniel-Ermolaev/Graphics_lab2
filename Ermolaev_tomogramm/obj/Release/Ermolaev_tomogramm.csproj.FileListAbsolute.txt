@@ -1,0 +1,14 @@
+C:\Users\ermol\source\repos\Ermolaev_tomogramm\bin\Release\Ermolaev_tomogramm.exe.config
+C:\Users\ermol\source\repos\Ermolaev_tomogramm\bin\Release\Ermolaev_tomogramm.exe
+C:\Users\ermol\source\repos\Ermolaev_tomogramm\bin\Release\Ermolaev_tomogramm.pdb
+C:\Users\ermol\source\repos\Ermolaev_tomogramm\bin\Release\OpenTK.Compatibility.dll
+C:\Users\ermol\source\repos\Ermolaev_tomogramm\bin\Release\OpenTK.dll
+C:\Users\ermol\source\repos\Ermolaev_tomogramm\bin\Release\OpenTK.GLControl.dll
+C:\Users\ermol\source\repos\Ermolaev_tomogramm\obj\Release\Ermolaev_tomogramm.csproj.AssemblyReference.cache
+C:\Users\ermol\source\repos\Ermolaev_tomogramm\obj\Release\Ermolaev_tomogramm.Form1.resources
+C:\Users\ermol\source\repos\Ermolaev_tomogramm\obj\Release\Ermolaev_tomogramm.Properties.Resources.resources
+C:\Users\ermol\source\repos\Ermolaev_tomogramm\obj\Release\Ermolaev_tomogramm.csproj.GenerateResource.cache
+C:\Users\ermol\source\repos\Ermolaev_tomogramm\obj\Release\Ermolaev_tomogramm.csproj.CoreCompileInputs.cache
+C:\Users\ermol\source\repos\Ermolaev_tomogramm\obj\Release\Ermolaev_tomogramm.csproj.CopyComplete
+C:\Users\ermol\source\repos\Ermolaev_tomogramm\obj\Release\Ermolaev_tomogramm.exe
+C:\Users\ermol\source\repos\Ermolaev_tomogramm\obj\Release\Ermolaev_tomogramm.pdb
